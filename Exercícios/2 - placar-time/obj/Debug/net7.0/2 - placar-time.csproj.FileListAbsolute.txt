@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\bin\Debug\net7.0\2 - placar-time.exe
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\bin\Debug\net7.0\2 - placar-time.deps.json
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\bin\Debug\net7.0\2 - placar-time.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\bin\Debug\net7.0\2 - placar-time.dll
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\bin\Debug\net7.0\2 - placar-time.pdb
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\obj\Debug\net7.0\2 - placar-time.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\obj\Debug\net7.0\2 - placar-time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\obj\Debug\net7.0\2 - placar-time.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\obj\Debug\net7.0\2 - placar-time.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\obj\Debug\net7.0\2 - placar-time.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\obj\Debug\net7.0\2 - placar-time.dll
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\obj\Debug\net7.0\refint\2 - placar-time.dll
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\obj\Debug\net7.0\2 - placar-time.pdb
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\obj\Debug\net7.0\2 - placar-time.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercícios\2 - placar-time\obj\Debug\net7.0\ref\2 - placar-time.dll

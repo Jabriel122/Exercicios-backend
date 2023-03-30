@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\bin\Debug\net7.0\1 - programa-orçamento.exe
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\bin\Debug\net7.0\1 - programa-orçamento.deps.json
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\bin\Debug\net7.0\1 - programa-orçamento.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\bin\Debug\net7.0\1 - programa-orçamento.dll
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\bin\Debug\net7.0\1 - programa-orçamento.pdb
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\obj\Debug\net7.0\1 - programa-orçamento.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\obj\Debug\net7.0\1 - programa-orçamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\obj\Debug\net7.0\1 - programa-orçamento.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\obj\Debug\net7.0\1 - programa-orçamento.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\obj\Debug\net7.0\1 - programa-orçamento.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\obj\Debug\net7.0\1 - programa-orçamento.dll
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\obj\Debug\net7.0\refint\1 - programa-orçamento.dll
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\obj\Debug\net7.0\1 - programa-orçamento.pdb
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\obj\Debug\net7.0\1 - programa-orçamento.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercícios\1 - programa-orçamento\obj\Debug\net7.0\ref\1 - programa-orçamento.dll
