@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\bin\Debug\net7.0\6 - média exigida.exe
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\bin\Debug\net7.0\6 - média exigida.deps.json
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\bin\Debug\net7.0\6 - média exigida.runtimeconfig.json
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\bin\Debug\net7.0\6 - média exigida.dll
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\bin\Debug\net7.0\6 - média exigida.pdb
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\obj\Debug\net7.0\6 - média exigida.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\obj\Debug\net7.0\6 - média exigida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\obj\Debug\net7.0\6 - média exigida.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\obj\Debug\net7.0\6 - média exigida.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\obj\Debug\net7.0\6 - média exigida.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\obj\Debug\net7.0\6 - média exigida.dll
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\obj\Debug\net7.0\refint\6 - média exigida.dll
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\obj\Debug\net7.0\6 - média exigida.pdb
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\obj\Debug\net7.0\6 - média exigida.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\6 - média exigida\obj\Debug\net7.0\ref\6 - média exigida.dll

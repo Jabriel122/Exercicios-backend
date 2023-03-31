@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\bin\Debug\net7.0\5 - maçã.exe
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\bin\Debug\net7.0\5 - maçã.deps.json
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\bin\Debug\net7.0\5 - maçã.runtimeconfig.json
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\bin\Debug\net7.0\5 - maçã.dll
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\bin\Debug\net7.0\5 - maçã.pdb
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\obj\Debug\net7.0\5 - maçã.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\obj\Debug\net7.0\5 - maçã.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\obj\Debug\net7.0\5 - maçã.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\obj\Debug\net7.0\5 - maçã.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\obj\Debug\net7.0\5 - maçã.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\obj\Debug\net7.0\5 - maçã.dll
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\obj\Debug\net7.0\refint\5 - maçã.dll
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\obj\Debug\net7.0\5 - maçã.pdb
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\obj\Debug\net7.0\5 - maçã.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\Exercicios-backend\Exercícios\5 - maçã\obj\Debug\net7.0\ref\5 - maçã.dll
